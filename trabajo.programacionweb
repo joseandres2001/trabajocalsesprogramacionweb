@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Primera Página HTML5</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a Mi Página</h1>
+    </header>
+    <main>
+        <p>Mi pagina</p>
+        <ul>
+            <li>Aprender HTML5</li>
+            <li>Crear sitios web</li>
+            <li>Explorar CSS</li>
+            <li>Desarrollar JavaScript</li>
+        </ul>
+    </main>
+</body>
+</html>
